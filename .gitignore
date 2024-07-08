@@ -164,6 +164,3 @@ cython_debug/
 
 # But do not ignore README.md
 !README.md
-
-# Ignore everything in the solutions folder
-Solutions/
